@@ -15,7 +15,7 @@ The release can be found within the releases as a draft (only visible for repo o
 4. Save and commit.
 5. On every push to master and every day, the workflow will check for new Aseprite releases
         
-# Technical details
+# Technical detailsv
 This workflow follows the instructions as described at [Aseprite repo](https://github.com/aseprite/aseprite/blob/master/INSTALL.md)
 
 1. Every day check if there is a new Aseprite release on GitHub (by comparing against cached version)
